@@ -1,7 +1,7 @@
 {
   "trait": "evil",
   "model_id": "Qwen/Qwen2.5-7B-Instruct",
-  "best_layer": null,
+  "best_layer": 14,
   "positive_scores": [
     92,
     92,
